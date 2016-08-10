@@ -7,8 +7,8 @@ h4{
 }
 #houser{
 	text-align: center;
-	color: black;
-	text-shadow: 1px 1px blue;
+	color: white;
+	text-shadow: 1px 1px navy;
 	
 }
 body{
@@ -31,6 +31,10 @@ header{
 ul{
 	list-style-type: none;
 	padding: 0;
+}
+.link{
+	color: #a94442;
+	text-shadow: 1px 1px navy;
 }
 #carousel-example-generic{
 	text-align: center;
