@@ -1,0 +1,12 @@
+body{
+	background-image: url(../images/nyc.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.row{
+	margin: 5rem 5rem 5rem 5rem;
+	background-color: white;
+	width: 50%;
+}
+
