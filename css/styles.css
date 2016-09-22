@@ -40,9 +40,7 @@
 }	
 .jects{
 	width: 10%;
-	
 }
-
 .des{
 	margin-top: 8rem;
 }
@@ -58,4 +56,31 @@ li{
 }
 .off-canvas{
 	background-image: url(../images/bg-1.jpg);
+}
+
+@media (max-width: 500px) {
+	.off-canvas-content{
+		font-size: 1.2rem;
+		text-align: center;
+	}
+	.jects{
+		width: 15%;
+	}
+	.link{
+		width: 15%;
+	}
+	.uldes{
+		margin-left: .1rem;
+	}
+	.des{
+		margin-top: 1rem;
+	}
+	.me{
+		font-size: 1.3rem;
+	}
+	.title-bar-left{
+		font-size: 1.2rem;
+		text-align: center;
+		height: 5rem;
+	}
 }
