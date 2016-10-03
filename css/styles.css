@@ -64,7 +64,9 @@ h5{
 h3{
 		font-family: 'Cinzel', serif;
 }
-
+b{
+	color: lightblue;
+}
 @media (max-width: 500px) {
 	.off-canvas-content{
 		font-size: 1.2rem;
