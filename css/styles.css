@@ -67,6 +67,11 @@ h3{
 b{
 	color: lightblue;
 }
+@media (max-width: 720px) {
+	.menu{
+		font-size: .3rem;
+	}
+}
 @media (max-width: 500px) {
 	.off-canvas-content{
 		font-size: 1.2rem;
