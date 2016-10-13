@@ -92,6 +92,9 @@ b{
 	}
 }
 @media (max-width: 500px) {
+	.house{
+	margin-bottom: 1rem;
+}
 	.off-canvas-content{
 		font-size: 1.2rem;
 		text-align: center;
