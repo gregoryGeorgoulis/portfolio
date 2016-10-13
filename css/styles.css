@@ -1,7 +1,6 @@
 
 *{
 	color: white;
-	font-family: 'Cinzel', serif;
 }
 .header{
 	margin-top: 5rem;
@@ -13,7 +12,23 @@
 	background-repeat: no-repeat;
  	background-attachment: fixed;
 }
+.serif{
+	font-family: 'Abhaya Libre', serif;
+}
+.tag{
+	font-size: 1.7rem;
+}
+.sanserif{
+	font-family: 'Hind Vadodara', sans-serif;
+}
 
+.navi{
+	font-size: 1.5rem;
+	color: white;
+}
+.nav{
+	border-bottom: 1px solid white;
+}
 .pro{
 	border-radius: 5% 5% 5% 5%;
 	height: 350px;
@@ -42,11 +57,15 @@
 .jects{
 	width: 10%;
 }
+.house{
+	margin-bottom: 5rem;
+}
 .des{
-	margin-top: 8rem;
+	margin-top: 3rem;
 }
 li{
 	list-style: none;
+	font-size: 1.3rem;
 }
 .me{
 	text-shadow: 1px 1px black;
@@ -90,7 +109,7 @@ b{
 		margin-left: .1rem;
 	}
 	.des{
-		margin-top: 1rem;
+		margin-top: .8rem;
 	}
 	.me{
 		font-size: 1.3rem;
