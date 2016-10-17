@@ -94,7 +94,13 @@ b{
 @media (max-width: 500px) {
 	.house{
 	margin-bottom: 1rem;
-}
+	}
+	.nav{
+		padding-bottom: 1.7rem;
+	}
+	#about{
+		color: #0D47A1;
+	}
 	.off-canvas-content{
 		font-size: 1.2rem;
 		text-align: center;
